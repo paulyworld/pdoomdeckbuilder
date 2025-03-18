@@ -1,0 +1,27 @@
+ai-risk-deckbuilder/
+├── package.json
+├── src/
+│   ├── assets/
+│   │   ├── audio/
+│   │   └── images/
+│   │       ├── cards/
+│   │       ├── characters/
+│   │       └── ui/
+│   ├── index.html
+│   └── js/
+│       ├── components/
+│       │   ├── Card.js
+│       │   ├── Deck.js
+│       │   ├── Enemy.js
+│       │   └── Player.js
+│       ├── config/
+│       │   ├── CardData.js
+│       │   └── EnemyData.js
+│       ├── main.js
+│       └── scenes/
+│           ├── BootScene.js
+│           ├── CombatScene.js
+│           ├── MainMenuScene.js
+│           ├── MapScene.js
+│           └── PreloaderScene.js
+└── webpack.config.js

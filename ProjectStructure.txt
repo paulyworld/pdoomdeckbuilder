@@ -1,0 +1,14 @@
+project/
+├── index.js
+├── config/
+│   ├── db.js
+│   ├── auth.js
+├── routes/
+│   ├── user.js
+│   ├── product.js
+├── models/
+│   ├── userModel.js
+│   ├── productModel.js
+├── public/
+│   ├── styles.css
+│   ├── script.js
